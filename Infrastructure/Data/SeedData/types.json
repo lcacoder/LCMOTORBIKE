@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Basic_Motorbike"
+  },
+  {
+    "Id": 2,
+    "Name": "Sporty_Motorbike"
+  },
+  {
+    "Id": 3,
+    "Name": "Premium_Motorbike"
+  },
+  {
+    "Id": 4,
+    "Name": "Luxury_Motorbike"
+  }
+]

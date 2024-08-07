@@ -1,0 +1,130 @@
+[
+  {
+      "Name": "Honda_Scooter",
+      "Description": "Best seller scooter of Honda",
+      "Price": 2500.0,
+      "PictureUrl": "images/products/Honda_Scooter.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 1
+  },
+  {
+      "Name": "Honda_CBR",
+      "Description": "High performance motorbike of Honda",
+      "Price": 4000.0,
+      "PictureUrl": "images/products/Honda_CBR.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 1
+  },
+  {
+      "Name": "Honda_AGXR",
+      "Description": "Small size high performance motorbike from Honda",
+      "Price": 3000.0,
+      "PictureUrl": "images/products/Honda_AGXR.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 1
+  },
+  {
+      "Name": "Honda_XR150",
+      "Description": "Personal size high performance motorbike from Honda",
+      "Price": 2800.0,
+      "PictureUrl": "images/products/Honda_XR150.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 1
+  },
+  {
+      "Name": "Kawa_Z800",
+      "Description": "Z series four-cylinder standard motorcycle",
+      "Price": 4500.0,
+      "PictureUrl": "images/products/Kawa_Z800.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 2
+  },
+  {
+      "Name": "Kawa_ZX1000",
+      "Description": "A four-cylinder motorcycle introduced in 2003 with streetfighter or standard styling",
+      "Price": 5500.0,
+      "PictureUrl": "images/products/Kawa_ZX1000.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 2
+  },
+  {
+      "Name": "Kawa_Ninja400",
+      "Description": "A 399 cc Ninja series sport bike introduced by Kawasaki in 2018",
+      "Price": 4000.0,
+      "PictureUrl": "images/products/Kawa_Ninja400.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 2
+  },
+  {
+      "Name": "Kawa_NinjaH2R",
+      "Description": "A supercharged four-stroke supersport-class motorcycle in the Ninja sports bike series manufactured by Kawasaki, featuring a variable-speed centrifugal supercharger",
+      "Price": 6000.0,
+      "PictureUrl": "images/products/Kawa_NinjaH2R.png",
+      "ProductTypeId": 1,
+      "ProductBrandId": 2
+  },
+  {
+      "Name": "BMW_R1250GS",
+      "Description": "One of the BMW GS family of dual sport motorcycles. It has a 1,254 cc, two-cylinder boxer engine with four valves per cylinder and variable valve timing",
+      "Price": 8000.0,
+      "PictureUrl": "images/products/BMW_R1250GS.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 3
+  },
+  {
+      "Name": "BMW_R1250",
+      "Description": "High performance version of R1250 family from BMW",
+      "Price": 7500.0,
+      "PictureUrl": "images/products/BMW_R1250.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 3
+  },
+  {
+      "Name": "BMW_R18",
+      "Description": "A premium motorbike of BWM, classic form but high performance",
+      "Price": 8500.0,
+      "PictureUrl": "images/products/BMW_R18.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 3
+  },
+  {
+      "Name": "BMW_M1000",
+      "Description": "A classic sporty motorbike of BMW for young people who like racing",
+      "Price": 7000.0,
+      "PictureUrl": "images/products/BMW_M1000.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 3
+  },
+  {
+      "Name": "Harley_1",
+      "Description": "Most luxurious Harley",
+      "Price": 15000.0,
+      "PictureUrl": "images/products/Harley_1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 4
+  },
+  {
+      "Name": "Harley_2",
+      "Description": "A sporty and high performance Harley",
+      "Price": 12000.0,
+      "PictureUrl": "images/products/Harley_2.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 4
+  },
+  {
+      "Name": "Harley_3",
+      "Description": "A basic sporty Harley",
+      "Price": 11000.0,
+      "PictureUrl": "images/products/Harley_3.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 4
+  },
+  {
+      "Name": "Harley_4",
+      "Description": "Highest performance Harley edition",
+      "Price": 16500.0,
+      "PictureUrl": "images/products/Harley_4.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 4
+  }
+]
