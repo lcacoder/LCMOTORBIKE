@@ -1,18 +1,18 @@
 [
   {
     "Id": 1,
-    "Name": "Basic_Motorbike"
+    "Name": "Basic Motorbike"
   },
   {
     "Id": 2,
-    "Name": "Sporty_Motorbike"
+    "Name": "Sporty Motorbike"
   },
   {
     "Id": 3,
-    "Name": "Premium_Motorbike"
+    "Name": "Premium Motorbike"
   },
   {
     "Id": 4,
-    "Name": "Luxury_Motorbike"
+    "Name": "Luxury Motorbike"
   }
 ]
