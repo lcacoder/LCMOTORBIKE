@@ -1,4 +1,4 @@
-An In progress Motorbike E-Commerce Platform
+(In Progress) Motorbike E-Commerce Platform
 
 Welcome to the Motorbike E-Commerce Platform! This platform is designed to provide a seamless and efficient shopping experience for motorbike enthusiasts, offering a wide selection of bikes and accessories. Built with a robust technology stack, this site is optimized for performance, scalability, and user satisfaction.
 
